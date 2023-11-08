@@ -1,0 +1,14 @@
+E:\Adoassign1\Day3Ado\CA_Day3_ex2\bin\Debug\net7.0\CA_Day3_ex2.exe
+E:\Adoassign1\Day3Ado\CA_Day3_ex2\bin\Debug\net7.0\CA_Day3_ex2.deps.json
+E:\Adoassign1\Day3Ado\CA_Day3_ex2\bin\Debug\net7.0\CA_Day3_ex2.runtimeconfig.json
+E:\Adoassign1\Day3Ado\CA_Day3_ex2\bin\Debug\net7.0\CA_Day3_ex2.dll
+E:\Adoassign1\Day3Ado\CA_Day3_ex2\bin\Debug\net7.0\CA_Day3_ex2.pdb
+E:\Adoassign1\Day3Ado\CA_Day3_ex2\obj\Debug\net7.0\CA_Day3_ex2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Adoassign1\Day3Ado\CA_Day3_ex2\obj\Debug\net7.0\CA_Day3_ex2.AssemblyInfoInputs.cache
+E:\Adoassign1\Day3Ado\CA_Day3_ex2\obj\Debug\net7.0\CA_Day3_ex2.AssemblyInfo.cs
+E:\Adoassign1\Day3Ado\CA_Day3_ex2\obj\Debug\net7.0\CA_Day3_ex2.csproj.CoreCompileInputs.cache
+E:\Adoassign1\Day3Ado\CA_Day3_ex2\obj\Debug\net7.0\CA_Day3_ex2.dll
+E:\Adoassign1\Day3Ado\CA_Day3_ex2\obj\Debug\net7.0\refint\CA_Day3_ex2.dll
+E:\Adoassign1\Day3Ado\CA_Day3_ex2\obj\Debug\net7.0\CA_Day3_ex2.pdb
+E:\Adoassign1\Day3Ado\CA_Day3_ex2\obj\Debug\net7.0\CA_Day3_ex2.genruntimeconfig.cache
+E:\Adoassign1\Day3Ado\CA_Day3_ex2\obj\Debug\net7.0\ref\CA_Day3_ex2.dll

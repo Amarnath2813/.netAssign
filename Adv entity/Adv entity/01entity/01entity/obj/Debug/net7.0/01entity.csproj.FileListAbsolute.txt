@@ -1,0 +1,136 @@
+D:\Practice\01entity\01entity\bin\Debug\net7.0\01entity.exe
+D:\Practice\01entity\01entity\bin\Debug\net7.0\01entity.deps.json
+D:\Practice\01entity\01entity\bin\Debug\net7.0\01entity.runtimeconfig.json
+D:\Practice\01entity\01entity\bin\Debug\net7.0\01entity.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\01entity.pdb
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Azure.Core.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Azure.Identity.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Humanizer.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\System.CodeDom.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\01entity\01entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Practice\01entity\01entity\obj\Debug\net7.0\01entity.csproj.AssemblyReference.cache
+D:\Practice\01entity\01entity\obj\Debug\net7.0\01entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\01entity\01entity\obj\Debug\net7.0\01entity.AssemblyInfoInputs.cache
+D:\Practice\01entity\01entity\obj\Debug\net7.0\01entity.AssemblyInfo.cs
+D:\Practice\01entity\01entity\obj\Debug\net7.0\01entity.csproj.CoreCompileInputs.cache
+D:\Practice\01entity\01entity\obj\Debug\net7.0\01entity.csproj.CopyComplete
+D:\Practice\01entity\01entity\obj\Debug\net7.0\01entity.dll
+D:\Practice\01entity\01entity\obj\Debug\net7.0\refint\01entity.dll
+D:\Practice\01entity\01entity\obj\Debug\net7.0\01entity.pdb
+D:\Practice\01entity\01entity\obj\Debug\net7.0\01entity.genruntimeconfig.cache
+D:\Practice\01entity\01entity\obj\Debug\net7.0\ref\01entity.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\01entity.exe
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\01entity.deps.json
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\01entity.runtimeconfig.json
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\01entity.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\01entity.pdb
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Azure.Core.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Azure.Identity.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Humanizer.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\System.CodeDom.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\obj\Debug\net7.0\01entity.csproj.AssemblyReference.cache
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\obj\Debug\net7.0\01entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\obj\Debug\net7.0\01entity.AssemblyInfoInputs.cache
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\obj\Debug\net7.0\01entity.AssemblyInfo.cs
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\obj\Debug\net7.0\01entity.csproj.CoreCompileInputs.cache
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\obj\Debug\net7.0\01entity.csproj.CopyComplete
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\obj\Debug\net7.0\01entity.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\obj\Debug\net7.0\refint\01entity.dll
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\obj\Debug\net7.0\01entity.pdb
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\obj\Debug\net7.0\01entity.genruntimeconfig.cache
+E:\Adoassign1\Adv entity\Adv entity\01entity\01entity\obj\Debug\net7.0\ref\01entity.dll

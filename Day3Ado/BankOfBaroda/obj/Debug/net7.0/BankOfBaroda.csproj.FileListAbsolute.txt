@@ -1,0 +1,14 @@
+E:\Adoassign1\Day3Ado\BankOfBaroda\bin\Debug\net7.0\BankOfBaroda.exe
+E:\Adoassign1\Day3Ado\BankOfBaroda\bin\Debug\net7.0\BankOfBaroda.deps.json
+E:\Adoassign1\Day3Ado\BankOfBaroda\bin\Debug\net7.0\BankOfBaroda.runtimeconfig.json
+E:\Adoassign1\Day3Ado\BankOfBaroda\bin\Debug\net7.0\BankOfBaroda.dll
+E:\Adoassign1\Day3Ado\BankOfBaroda\bin\Debug\net7.0\BankOfBaroda.pdb
+E:\Adoassign1\Day3Ado\BankOfBaroda\obj\Debug\net7.0\BankOfBaroda.GeneratedMSBuildEditorConfig.editorconfig
+E:\Adoassign1\Day3Ado\BankOfBaroda\obj\Debug\net7.0\BankOfBaroda.AssemblyInfoInputs.cache
+E:\Adoassign1\Day3Ado\BankOfBaroda\obj\Debug\net7.0\BankOfBaroda.AssemblyInfo.cs
+E:\Adoassign1\Day3Ado\BankOfBaroda\obj\Debug\net7.0\BankOfBaroda.csproj.CoreCompileInputs.cache
+E:\Adoassign1\Day3Ado\BankOfBaroda\obj\Debug\net7.0\BankOfBaroda.dll
+E:\Adoassign1\Day3Ado\BankOfBaroda\obj\Debug\net7.0\refint\BankOfBaroda.dll
+E:\Adoassign1\Day3Ado\BankOfBaroda\obj\Debug\net7.0\BankOfBaroda.pdb
+E:\Adoassign1\Day3Ado\BankOfBaroda\obj\Debug\net7.0\BankOfBaroda.genruntimeconfig.cache
+E:\Adoassign1\Day3Ado\BankOfBaroda\obj\Debug\net7.0\ref\BankOfBaroda.dll
