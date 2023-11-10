@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WA_Cookieexample/1.0.0": {
+        "runtime": {
+          "WA_Cookieexample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WA_Cookieexample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
